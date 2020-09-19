@@ -1,0 +1,6 @@
+git config --global --list
+
+user.name=**
+user.email=**.**20@gmail.com
+email.name=**.**20@gmail.com
+core.pager='cat'
